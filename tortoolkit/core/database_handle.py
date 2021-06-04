@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# (c) YashDK [yash-dk@github]
+# (c) Hardik
 
 import psycopg2,os,datetime
 import psycopg2.extras
