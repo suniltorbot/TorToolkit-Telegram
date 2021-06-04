@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# (c) YashDK [yash-dk@github]
+# (c) Hardik
 
 from telethon import TelegramClient,events 
 from telethon import __version__ as telever
@@ -614,7 +614,7 @@ async def about_me(message):
         rclone_m = "N/A"
 
     msg = (
-        "<b>Name</b>: <code>TorToolkit</code>\n"
+        "<b>Name</b>: <code>Tor Plant</code>\n"
         f"<b>Version</b>: <code>{__version__}</code>\n"
         f"<b>Telethon Version</b>: {telever}\n"
         "<b>Created By</b>: @MRGOfficial_admin\n\n"
